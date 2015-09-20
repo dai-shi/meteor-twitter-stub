@@ -1,7 +1,7 @@
 Package.describe({
   name: "twitter-stub",
   summary: "A stub for use in testing. Stubs the oauth calls amongst other APIs.",
-  version: "1.0.1.1",
+  version: "1.0.1_1",
   debugOnly: true
 });
 
