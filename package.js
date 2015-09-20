@@ -1,7 +1,7 @@
 Package.describe({
-  name: "xolvio:twitter-stub",
+  name: "twitter-stub",
   summary: "A stub for use in testing. Stubs the oauth calls amongst other APIs.",
-  version: "1.0.1",
+  version: "1.0.1+mirror",
   debugOnly: true
 });
 
