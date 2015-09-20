@@ -1,3 +1,5 @@
+if (process.env.IS_MIRROR) {
+
 var url = Npm.require('url');
 
 HttpInterceptor = Package['xolvio:http-interceptor'].HttpInterceptor;
@@ -87,3 +89,4 @@ _.extend(TwitterStub, {
 
 });
 
+}
